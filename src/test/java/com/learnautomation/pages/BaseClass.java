@@ -100,7 +100,7 @@ public class BaseClass {
 	
 	@AfterClass
 	public void closeBroswer() {
-		driver.close();
+		driver.close(); 
 	}
 
 }
